@@ -1,4 +1,4 @@
-# Developer Profile Generator
+# GitHub Profile Analyzer
 
 #### Video Demo: <https://youtu.be/yun0rShcmG4?si=1tksIYNIC0H8YaMC>
 
